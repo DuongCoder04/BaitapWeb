@@ -1,0 +1,29 @@
+h1{
+    text-align: center;
+    color: orange; 
+    border: thick double orange; 
+    font-size: 50px;
+}
+h2{
+    text-align: right; 
+    color: white; 
+    background-color: orange;
+    font-size: 40px;
+}
+p{
+    font-size: 30px;
+}
+p.doan2{
+    text-align: right;
+}
+a.doan1{
+    font-size: 200%; 
+    color: brown; 
+    text-align: left;
+}
+a.brown{
+    color: brown;
+}
+.highlight{
+    background-color: sandybrown;
+}

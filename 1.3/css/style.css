@@ -1,0 +1,17 @@
+body{
+    background-color: #A06D21; 
+    background-image: url(../img/vltt.jpg); 
+    background-attachment: fixed; 
+	background-position: center center; 
+    background-size: 600px;
+    background-repeat: no-repeat;
+}
+h1{
+    text-align: center;
+    color: #FFCC00; 
+    font-size: 60px;
+}
+p{
+    color: white;
+    font-size: 30px;
+}

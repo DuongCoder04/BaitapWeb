@@ -1,0 +1,39 @@
+table{
+    background-color: bisque;
+    border-collapse: collapse;
+}
+tr, td{
+    border: 1px solid black;
+}
+caption{
+    font-size: x-large;
+    font-weight: bold;
+    color: blue;
+    margin-bottom: 15px;
+}
+td{
+    color: blue;
+}
+.center{
+    text-align: center;
+}
+fieldset{
+    border: 2px solid brown;
+    text-align: center;
+}
+.left{
+    text-align: left;
+}
+.title{
+    color:chocolate;
+}
+.italic{
+    font-style: italic;
+}
+option{
+    font-style: normal;
+}
+.red{
+    color: red;
+    margin: 3px;
+}

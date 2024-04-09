@@ -1,0 +1,23 @@
+.title{
+    color: white;
+    text-align: center;
+    margin: 5px;
+}
+.blue{
+    background: blue;
+}
+.left-background{
+    background-color: aquamarine;
+}
+ul{
+    list-style: square;
+}
+div{
+    padding-left: 1px;
+}
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+}

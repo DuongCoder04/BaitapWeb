@@ -1,0 +1,18 @@
+body{
+    background-image: url('../img/nen.jpg'); 
+    background-size: 200px;
+}
+h1{
+    color: #008888; 
+    text-align: center; 
+    font-size: 60px;
+}
+p.doan1{
+    background-color: #339999; 
+    color: white; 
+    font-size: 30px;
+}
+p.doan2{
+    color: #339999; 
+    font-size: 30px;
+}

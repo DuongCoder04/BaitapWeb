@@ -1,0 +1,25 @@
+h1{
+    font-size: 70px;
+    color: pink;
+    text-align: center;
+}
+img{
+    float: inline-start;
+}
+.title{
+    background-color: palevioletred;
+    color: white;
+    display: inline-block;
+    font-size: 30px;
+}
+.copyright{
+    background-color: plum;
+    display: inline-block;
+    text-transform: capitalize;
+}
+a{
+    text-transform: capitalize;
+}
+body{
+    font-size: 150%;
+}
